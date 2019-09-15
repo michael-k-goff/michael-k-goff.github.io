@@ -1,0 +1,52 @@
+.container {
+	position: absolute;
+	width: 100vw;
+}
+
+header {
+	position: absolute;
+	height: 150px;
+}
+
+.project1 {
+	position: absolute;
+	width: 50vw;
+	height: 600px;
+	top: 150px;
+	left: 0vw;
+}
+
+.project2 {
+	position: absolute;
+	width: 50vw;
+	height: 600px;
+	top: 150px;
+	left: 50vw;
+}
+
+.project3 {
+	position: absolute;
+	width: 50vw;
+	height: 600px;
+	top: 750px;
+	left: 0vw;
+}
+
+.project4 {
+	position: absolute;
+	width: 50vw;
+	height: 600px;
+	top: 750px;
+	left: 50vw;
+}
+
+.additional {
+	position: absolute;
+	width: 100vw;
+	top: 1350px;
+	left: 0vw;
+}
+
+.headerimage {
+	width: 80px;
+}
