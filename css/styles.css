@@ -1,52 +1,95 @@
+* {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
+}
+
 .container {
 	position: absolute;
 	width: 100vw;
 }
 
 header {
+	
+}
+
+.portraitbox {
+	position:absolute;
+	width: 15vw;
+	padding-left: 5vw;
+}
+
+.contactbox {
+	position:absolute;
+	left: 15vw;
+}
+
+.contactrow {
+	width: 50vw;
+	text-align: center;
+}
+
+.mainheading {
+	text-align: center;
+}
+
+.mainsubheading {
+	text-align: center;
+	margin-bottom:0;
+}
+
+.contactelement {
+	display: inline-block;
+	width: 30%;
+}
+
+.projectrow {
+	
+}
+
+.row1 {
 	position: absolute;
-	height: 150px;
+	top: 150px;
+}
+
+.row2 {
+	position: absolute;
+	top: 700px;
 }
 
 .project1 {
 	position: absolute;
-	width: 50vw;
-	height: 600px;
-	top: 150px;
-	left: 0vw;
+	width: 40vw;
+	left: 5vw;
 }
 
 .project2 {
 	position: absolute;
-	width: 50vw;
-	height: 600px;
-	top: 150px;
-	left: 50vw;
-}
-
-.project3 {
-	position: absolute;
-	width: 50vw;
-	height: 600px;
-	top: 750px;
-	left: 0vw;
-}
-
-.project4 {
-	position: absolute;
-	width: 50vw;
-	height: 600px;
-	top: 750px;
-	left: 50vw;
+	width: 40vw;
+	left: 55vw;
 }
 
 .additional {
 	position: absolute;
-	width: 100vw;
-	top: 1350px;
-	left: 0vw;
+	width: 40vw;
+	left: 5vw;
+	top: 1250px;
+	margin-bottom: 150px;
 }
 
 .headerimage {
-	width: 80px;
+	height: 130px;
+}
+
+.projectimage {
+	height: 250px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.projectheader {
+	text-align: center;
+}
+
+.projectdescription {
+	
 }
