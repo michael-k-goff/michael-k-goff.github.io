@@ -84,6 +84,12 @@ header {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	-webkit-transition-duration: 0.4s; /* Safari */
+	transition-duration: 0.4s;
+	opacity:0.5;
+}
+.projectimage:hover {
+	opacity: 1;
 }
 
 .projectheader {
