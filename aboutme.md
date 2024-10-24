@@ -1,16 +1,18 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About This Project
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### About The Project
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+This project is **Scaling in Human Societies**, a Living Literature Review of topics related to how cities, nations, and civilization as a whole develop with size. Our goal is to present research broadly related to scaling in a way that is comprehensive, up-to-date, understandable to a layperson, and relevant to researchers and policymakers.
 
-What else do you need?
+### Funding
 
-### My story
+This project is generously supported by a [Living Literature Review](https://www.openphilanthropy.org/research/what-is-a-living-literature-review/) grant from Open Philanthropy. Open Philanthropy does not exercise editorial control over this project, and no content here should be construed as representing Open Philanthropy's views.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### About Me
+
+This Living Literature Review is prepared by Michael Goff. I received a Ph. D. in Mathematics from University of Washington and did a postdoc at Vanderbilt University. For most of the past decade, I have been working on energy and environmental policy at [Urban Cruise Ship](https://www.urbancruiseship.org/), with a stint at [The Breakthrough Institute](https://thebreakthrough.org/).
+
+I also have a personal blog at [Substack](https://goff.substack.com/), on which I write almost every week on a variety of topics.
