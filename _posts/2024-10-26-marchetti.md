@@ -20,11 +20,11 @@ Prior to around 1800, most people did most of their traveling on foot. A typical
 With the advent of faster modes of transportation that were widely available to the general public, the 30 minute commute radius expanded into a longer distance. Like many other cities at the time, Berlin in 1800 had a radius of 2.5 kilometers. In succession, horse tramways and buses, electric trams, subways, and private automobiles expanded the travel radius to 20 kilometers at the time of Marchetti's research. An 8-fold increase in radius is equivalent to a 64-fold increase in the city's area.
 
 ![Berlin](/assets/img/berlin.png){: .mx-auto.d-block :}
-*The growth of Berlin as transportation technology developed. Image from [Marchetti 1994](https://doi.org/10.1016/0040-1625(94)90041-8)*
+*The growth of Berlin as transportation technology developed. Image from [Marchetti (1994)](https://doi.org/10.1016/0040-1625(94)90041-8).*
 
 Marchetti posits that if a city grows in spatial extent while maintaining the population density of Hadrian's Rome, then widespread automobile availability should enable cities of sizes of 50 million people, and a hypothetical means of transportation with a speed of 150 km/s should enable a city of a billion people. I will address the issue of transportation infrastructure and population density later, but for now I am skeptical that the assumption of constant population density is reasonable.
 
-Marchetti speculates about possible future transportation technology, such as hypersonic flight or a maglev train in tube evacuated to near-vacuum conditions, a concept similar to the more recent Hyperloop ([Musk 2013](https://web.archive.org/web/20130813074616/http://www.teslamotors.com/sites/default/files/blog_images/hyperloop-alpha.pdf)). Such technologies could enable what Constantinos Doxiadis termed an *ecumenopolis*, or a planet-spanning city ([Doxiadis (1962)](https://www.jstor.org/stable/43617611)).
+Marchetti speculates about possible future transportation technology, such as hypersonic flight or a maglev train in tube evacuated to near-vacuum conditions, a concept similar to the more recent Hyperloop ([Musk (2013)](https://web.archive.org/web/20130813074616/http://www.teslamotors.com/sites/default/files/blog_images/hyperloop-alpha.pdf)). Such technologies could enable what Constantinos Doxiadis termed an *ecumenopolis*, or a planet-spanning city ([Doxiadis (1962)](https://www.jstor.org/stable/43617611)).
 
 ## What About Communications?
 
@@ -106,4 +106,4 @@ Choo, S., Mokhtarian, P. L., Salomon, I. ["Does telecommuting reduce vehicle-mil
 
 Henderson, D. K., Mokhtarian, P. L. ["Impacts of center-based telecommuting on travel and emissions: Analysis of the Puget Sound Demonstration Project"](https://doi.org/10.1016/S1361-9209(96)00009-0). Transportation Research Part D: Transport and Environment **1**(1), pp. 29-45. September 1996.
 
-Zipf, George K. ["Human behavior and the principle of least effort"](https://doi.org/10.1002/1097-4679(195007)6:3<306::AID-JCLP2270060331>3.0.CO;2-7). Cambridge, (Mass.): Addison-Wesley, 1949, pp. 573
+Zipf, George K. ["Human behavior and the principle of least effort"](https://doi.org/10.1002/1097-4679(195007)6:3<306::AID-JCLP2270060331>3.0.CO;2-7). Cambridge, (Mass.): Addison-Wesley, 1949, pp. 573.
