@@ -2,4 +2,11 @@
 layout: page
 title: Overview
 ---
-This page will show a outline of all articles prepared for this Living Literature Review. Check back later!
+Following are the most recent versions of the articles in this review.
+
+- [Marchetti's Constant](/2024-10-26-marchetti). The observation that a city is typically defined by a 30 minute commute radius around a central business district. Updated October 26, 2024.
+- [Standard Urban Model](/2024-11-02-sum). The basic Alonso-Muth-Mills model, or the standard urban model, works well in predicting how cities grow despite its limitations. Updated November 2, 2024.
+- [The Rebound Effect](/2024-11-20-rebound). The tendency for total driving to increase after transportation efficiency improvements, such as new road lanes, remote work, public transportation, and compact neighborhoods. Updated November 20, 2024.
+- [Sources of Agglomeration](/2024-12-07-agglomeration-sources). The mechanisms by which larger cities drive increased prosperity. Updated December 7, 2024.
+- [Urban Scaling](/2024-12-20-urban-scaling). How a city's wealth increases as the city grows. Updated December 20, 2024.
+- [Limits to Growth](/2025-01-17-limits-to-growth). Resource and sustainability challenges that might curtail growth and scaling. Updated January 17, 2025.
