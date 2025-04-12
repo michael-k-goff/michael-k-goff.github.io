@@ -4,6 +4,7 @@ title: Overview
 ---
 Following are the most recent versions of the articles in this review.
 
+- [Energy and Economic Growth](/2025-04-12-energy-growth.md). The importance of energy consumption as a driver of economic growth. Updated April 12, 2025.
 - [City Size and Crime](/2025-03-29-size-crime.md). How and why crime rates in a city generally increase with city size. Updated March 29, 2025.
 - [Theoretical Limits to Growth](/2025-03-07-max-population). A review of estimated limits to the number of people who could live on Earth and beyond. Updated March 7, 2025.
 - [Scale and Existential Risk](/2025-02-21-xrisk). Whether scale creates a risk of a catastrophe that would theaten civilization. Updated February 21, 2025.
