@@ -6,6 +6,8 @@ comments: true
 mathjax: true
 author: Michael Goff
 ---
+*This article is Version 2. Version 1 can be found [here](/2025-04-12-energy-growth).*
+
 It is well-known that, historically, the availability of energy is highly related to economic growth in the long run. It is less clear whether this relationship should be expected to continue into the future, and it is also unclear whether energy causes economic growth, or whether growth causes increased energy consumption, or both.
 
 ## The Role of Energy in Growth
