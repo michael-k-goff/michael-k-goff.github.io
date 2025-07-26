@@ -6,7 +6,7 @@ Following are the most recent versions of the articles in this review.
 
 **City Scaling**
 
-- [Zipf's Law](/2025-07-26-zipf.md). The regular rank/size relationship in the cities of a country. Updated July 26, 2025.
+- [Zipf's Law](/2025-07-26-zipf). The regular rank/size relationship in the cities of a country. Updated July 26, 2025.
 - [Marchetti's Constant](/2025-07-05-marchetti). The observation that a city is typically defined by a 30 minute commute radius around a central business district. Updated July 5, 2025.
 - [City Size and Crime](/2025-03-29-size-crime). How and why crime rates in a city generally increase with city size. Updated March 29, 2025.
 - [Urban Scaling](/2024-12-20-urban-scaling). How a city's wealth increases as the city grows. Updated December 20, 2024.
