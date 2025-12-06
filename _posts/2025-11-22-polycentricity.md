@@ -7,7 +7,7 @@ mathjax: true
 author: Michael Goff
 ---
 
-"Polycentricity" refers to an urban design pattern in which there are several separate centers of employment and commerce, and not a single dominant center. The [monocentric standard urban model](/2014-11-02), also known as the Alonso-Muth-Mills model, holds that cities development around a single core, known as the central business district. Although useful, the standard urban model makes many simplifications, such as the the assumption of monocentricity, that generally do not hold in the real world.
+"Polycentricity" refers to an urban design pattern in which there are several separate centers of employment and commerce, and not a single dominant center. The [monocentric standard urban model](/2024-11-02-sum), also known as the Alonso-Muth-Mills model, holds that cities development around a single core, known as the central business district. Although useful, the standard urban model makes many simplifications, such as the the assumption of monocentricity, that generally do not hold in the real world.
 
 ## Polycentricity Defined
 
