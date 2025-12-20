@@ -6,6 +6,7 @@ Following are the most recent versions of the articles in this review.
 
 **City Scaling**
 
+- [Transportation Technology](/2025-12-20-transpo-tech). How emerging transportation technologies might change the socioeconomic performance of cities. Updated December 20, 2025.
 - [Car-Free Cities](/2025-12-06-carfree). The environmental, health, and economic impact of superblocks and other urban design principles to reduce automobile usage. Updated December 6, 2025.
 - [Polycentricity](/2025-11-22-polycentricity). An urban development methodology that distributes population and urban functions throughout a region, rather than concentrating them. Updated November 22, 2025.
 - [The Rebound Effect](/2025-08-01-rebound). The tendency for total driving to increase after transportation efficiency improvements, such as new road lanes, remote work, public transportation, and compact neighborhoods. Updated August 1, 2024.
