@@ -6,6 +6,7 @@ Following are the most recent versions of the articles in this review.
 
 **City Scaling**
 
+- [Standard Urban Model](/2025-12-27-sum). The basic Alonso-Muth-Mills model, or the standard urban model, works well in predicting how cities grow despite its limitations. Updated December 27, 2025.
 - [Transportation Technology](/2025-12-20-transpo-tech). How emerging transportation technologies might change the socioeconomic performance of cities. Updated December 20, 2025.
 - [Car-Free Cities](/2025-12-06-carfree). The environmental, health, and economic impact of superblocks and other urban design principles to reduce automobile usage. Updated December 6, 2025.
 - [Polycentricity](/2025-11-22-polycentricity). An urban development methodology that distributes population and urban functions throughout a region, rather than concentrating them. Updated November 22, 2025.
@@ -15,7 +16,6 @@ Following are the most recent versions of the articles in this review.
 - [City Size and Crime](/2025-03-29-size-crime). How and why crime rates in a city generally increase with city size. Updated March 29, 2025.
 - [Urban Scaling](/2024-12-20-urban-scaling). How a city's wealth increases as the city grows. Updated December 20, 2024.
 - [Sources of Agglomeration](/2024-12-07-agglomeration-sources). The mechanisms by which larger cities drive increased prosperity. Updated December 7, 2024.
-- [Standard Urban Model](/2024-11-02-sum). The basic Alonso-Muth-Mills model, or the standard urban model, works well in predicting how cities grow despite its limitations. Updated November 2, 2024.
 
 **Economic Growth**
 
