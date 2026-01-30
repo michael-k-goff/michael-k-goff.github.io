@@ -6,6 +6,7 @@ Following are the most recent versions of the articles in this review.
 
 **City Scaling**
 
+- [Pace of Life](/2026-01-30-lifestyle). Certain pace of life metrics, such as walking speed and cell phone call volume, tend to be higher in larger cities. Updated January 30, 2026.
 - [Standard Urban Model](/2025-12-27-sum). The basic Alonso-Muth-Mills model, or the standard urban model, works well in predicting how cities grow despite its limitations. Updated December 27, 2025.
 - [Transportation Technology](/2025-12-20-transpo-tech). How emerging transportation technologies might change the socioeconomic performance of cities. Updated December 20, 2025.
 - [Car-Free Cities](/2025-12-06-carfree). The environmental, health, and economic impact of superblocks and other urban design principles to reduce automobile usage. Updated December 6, 2025.
