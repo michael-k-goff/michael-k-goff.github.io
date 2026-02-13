@@ -6,6 +6,7 @@ Following are the most recent versions of the articles in this review.
 
 **City Scaling**
 
+- [Cities and Wellbeing](/2026-02-13-wellbeing). The mixed research on how mental health and wellbeing is affected by the urban form. Updated February 13, 2026.
 - [Pace of Life](/2026-01-30-lifestyle). Certain pace of life metrics, such as walking speed and cell phone call volume, tend to be higher in larger cities. Updated January 30, 2026.
 - [Standard Urban Model](/2025-12-27-sum). The basic Alonso-Muth-Mills model, or the standard urban model, works well in predicting how cities grow despite its limitations. Updated December 27, 2025.
 - [Transportation Technology](/2025-12-20-transpo-tech). How emerging transportation technologies might change the socioeconomic performance of cities. Updated December 20, 2025.
