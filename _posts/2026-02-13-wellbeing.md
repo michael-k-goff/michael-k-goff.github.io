@@ -36,6 +36,8 @@ The study was conducted in New York City, with data collected via telephone surv
 
 The interpretation of [Park, Koo, and Kang (2026)](https://doi.org/10.1371/journal.pone.0339040) is that the stress of receiving and transmitting the virus caused greater depressive symptoms in denser environments. However, the study also fails to address the hidden variable problem. It would also have been benefitted from including a non-COVID year as a control, so that we could see how many of these results were in fact driven by the pandemic.
 
+[Astell-Burt and Feng (2015)](https://ro.uow.edu.au/articles/report/The_effect_of_urban_form_on_wellbeing/27800952?file=50573454), who conduct a review of 103 studies on the effect of the built environment on wellbeing and mental health. Of the studies that find a relationship between the built environment and wellbeing, the most important feature identified was access to green space. The studies mostly were cross-sectional (i.e. they measured a single point in time, making it impossible to assess causation) and relied heavily of self-reported data. No studies used randomized control trials.
+
 ## Density and Relationship Quality
 
 Another aspect of wellbeing is social wellbeing, or the quality of one’s interpersonal relationships. [Mouratidis (2018)](https://doi.org/10.1016/j.cities.2017.10.020) studies several neighborhoods in Oslo, Norway, some of which are suburban and some of which are compact. He finds statistically significant associations between compactness and several metrics related to social wellbeing:
@@ -57,6 +59,12 @@ Wellbeing is another concept which does not have an exact, consistent definition
 [Hebert et al. (2023)](https://happycities.com/blog/does-density-hurt-happiness) uses surveys to assess seven types of wellbeing, which are then aggregated into three metrics: general wellbeing, social wellbeing, and neighborhood wellbeing (actually, neighbourhood wellbeing; the firm is based in Canada). They surveyed 1886 people in the Vancouver, British Columbia area, for which they were able to determine postal codes for 1565.
 
 A major challenge is that respondents are not equally representative of the population. Some groups, such as women and older people, are overrepresented, meaning that a greater proportion of them answered the survey than live in the area. For public opinion polls, this is a well-known problem. A common—though not always sufficient solution according to [Mercer, Lau, and Kennedy (2018)](https://www.pewresearch.org/methods/2018/01/26/how-different-weighting-methods-work/) for the Pew Research Center—is weighting. This techniques put a heavier value on respondents for underrepresented demographics so that the representation of each demographic in the survey matches their prevalence in society at large. No weighting was done in [Hebert et al. (2023)](https://happycities.com/blog/does-density-hurt-happiness), and it is not clear how much of a difference this would have made.
+
+The first major finding of [Hebert et al. (2023)](https://happycities.com/blog/does-density-hurt-happiness) is that the wellbeing metrics are not significantly correlated with density. That was found by dividing the neighborhoods into five density zones. The second major finding is that wellbeing and housing type (i.e. single family or multifamily) mostly don’t correlate when controlling for income. The exception is that units less than 300 square feet and basement units are associated with lower wellbeing, even when controlling for income.
+
+[Ala-Mantila et al. (2017)](https://doi.org/10.1080/00343404.2017.1360485) considers the spatial aspects of subjective wellbeing and asks the question, are dense, non-car dependent neighborhoods or sparse, car-dependent neighborhoods more conducive to wellbeing? They consider two wellbeing metrics: happiness and quality of life. Happiness is measured by the question, **"Over the past 4 weeks, for how much of the time have you felt happy?"** Quality of life is measured by the question, **"We ask you to think about your life in the past two weeks, how would you rate your quality of life?"**, and the surveyee is asked to choose from five ratings.
+
+Despite the apparent similarity between these two questions, after controlling for socioeconomics, [Ala-Mantila et al. (2017)](https://doi.org/10.1080/00343404.2017.1360485) finds that quality of life is higher in pedestrian-oriented zones, while happiness is higher in car-oriented zones.
 
 ## References
 
@@ -87,3 +95,7 @@ Hebert, M., Avery, E., Cleveland, T., Elokda, H., Borkenhagen, D., Licker, A., G
 Montgomery, C. ["Happy City: Transforming Our Lives Through Urban Design"](https://www.amazon.com/Happy-City-Transforming-Through-Design-ebook/dp/B009LRWHPY). Farrar, Straus and Giroux, ISBN 978-1429969536. November 2013.
 
 Mercer, A., Lau, A., Kennedy, C. ["How different weighting methods work"](https://www.pewresearch.org/methods/2018/01/26/how-different-weighting-methods-work/). Pew Research Center. January 2018.
+
+Ala-Mantila, S., Heinonen, J., Junnila, S., Saarsalmi, P. ["Spatial nature of urban well-being"](https://doi.org/10.1080/00343404.2017.1360485). Regional Studies **52**(7), pp. 959-973. July 2018.
+
+Astell-Burt, T., Feng, X. ["The effect of urban form on wellbeing"](https://ro.uow.edu.au/articles/report/The_effect_of_urban_form_on_wellbeing/27800952?file=50573454). Aan Evidence Check rapid review brokered by the Sax Institute for the NSW Centre for Population Health. 2015.
