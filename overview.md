@@ -36,7 +36,8 @@ Following are the most recent versions of the articles in this review.
 - [IPAT and its Variants](/2025-01-31-ipat). A simple model of how an environmental impact varies with changes in population, affluence, and technology. Updated January 31, 2025.
 - [Limits to Growth](/2025-01-17-limits-to-growth). Resource and sustainability challenges that might curtail growth and scaling. Updated January 17, 2025.
 
+**Origins of Cooperation**
 
-
+- [Cooperation in Nonhuman Animals](/2026-04-10-nonhuman). Large scale cooperation between unrelated groups of nonhuman animals is rare. Updated April 10, 2026.
 
 
