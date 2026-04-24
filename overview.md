@@ -23,7 +23,6 @@ Following are the most recent versions of the articles in this review.
 
 - [Business Scaling](/2025-10-25-business-scaling). Larger companies face both advantages in terms of economies of scale and scope and disadvantages with the costs of hierarchy. Updated October 25, 2025.
 - [Demographic Transition](/2025-10-10-demographic-transition). The tendency for birth rates to decline with economic development. Updated October 10, 2025.
-- [Dunbar's Number](/2025-08-16-dunbar). The claim that, due to the difficult to managing social relationships, human communties based on interpersonal knowledge are limited to around 150 people. Updated August 16, 2025.
 - [Population and Economic Growth](/2025-06-07-population-growth). The role of population in driving long-term economic growth. Updated June 7, 2025.
 - [Energy and Economic Growth](/2025-05-24-energy-growth). The importance of energy consumption as a driver of economic growth. Updated May 24, 2025.
 
@@ -38,6 +37,8 @@ Following are the most recent versions of the articles in this review.
 
 **Origins of Cooperation**
 
+- [Cooperation in the Paleolithic](/2026-04-24-paleo). Large scale cooperation occurred before agriculture, but it seems to have been rare. Updated April 24, 2026.
 - [Cooperation in Nonhuman Animals](/2026-04-10-nonhuman). Large scale cooperation between unrelated groups of nonhuman animals is rare. Updated April 10, 2026.
+- [Dunbar's Number](/2025-08-16-dunbar). The claim that, due to the difficult to managing social relationships, human communties based on interpersonal knowledge are limited to around 150 people. Updated August 16, 2025.
 
 
