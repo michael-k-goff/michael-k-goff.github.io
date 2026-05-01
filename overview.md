@@ -37,6 +37,7 @@ Following are the most recent versions of the articles in this review.
 
 **Origins of Cooperation**
 
+- [The Expansion of Cooperation in the Neolithic](/2026-05-01-neolithic). How large-scale cooperation expanded after the development of agriculture. Updated May 1, 2026.
 - [Cooperation in the Paleolithic](/2026-04-24-paleo). Large scale cooperation occurred before agriculture, but it seems to have been rare. Updated April 24, 2026.
 - [Cooperation in Nonhuman Animals](/2026-04-10-nonhuman). Large scale cooperation between unrelated groups of nonhuman animals is rare. Updated April 10, 2026.
 - [Dunbar's Number](/2025-08-16-dunbar). The claim that, due to the difficult to managing social relationships, human communties based on interpersonal knowledge are limited to around 150 people. Updated August 16, 2025.

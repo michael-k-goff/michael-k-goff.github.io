@@ -11,7 +11,7 @@ This project has a companion blog at [Substack](https://goff.substack.com/).
 
 ### Funding
 
-This project is generously supported by a [Living Literature Review](https://www.openphilanthropy.org/research/what-is-a-living-literature-review/) grant from Coefficient Giving. Coefficient Giving does not exercise editorial control over this project, and no content here should be construed as representing Coefficient Giving's views.
+This project is generously supported by a [Living Literature Review](https://coefficientgiving.org/funds/abundance-and-growth/living-literature-reviews/) grant from Coefficient Giving (formerly Open Philanthropy). Coefficient Giving does not exercise editorial control over this project, and no content here should be construed as representing Coefficient Giving's views.
 
 ### About Me
 
