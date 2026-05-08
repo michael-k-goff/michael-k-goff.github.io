@@ -8,16 +8,22 @@ Following are the most recent versions of the articles in this review.
 
 - [Cities and Wellbeing](/2026-02-13-wellbeing). The mixed research on how mental health and wellbeing is affected by the urban form. Updated February 13, 2026.
 - [Pace of Life](/2026-01-30-lifestyle). Certain pace of life metrics, such as walking speed and cell phone call volume, tend to be higher in larger cities. Updated January 30, 2026.
-- [Standard Urban Model](/2025-12-27-sum). The basic Alonso-Muth-Mills model, or the standard urban model, works well in predicting how cities grow despite its limitations. Updated December 27, 2025.
-- [Transportation Technology](/2025-12-20-transpo-tech). How emerging transportation technologies might change the socioeconomic performance of cities. Updated December 20, 2025.
-- [Car-Free Cities](/2025-12-06-carfree). The environmental, health, and economic impact of superblocks and other urban design principles to reduce automobile usage. Updated December 6, 2025.
-- [Polycentricity](/2025-11-22-polycentricity). An urban development methodology that distributes population and urban functions throughout a region, rather than concentrating them. Updated November 22, 2025.
-- [The Rebound Effect](/2025-08-01-rebound). The tendency for total driving to increase after transportation efficiency improvements, such as new road lanes, remote work, public transportation, and compact neighborhoods. Updated August 1, 2024.
-- [Zipf's Law](/2025-07-26-zipf). The regular rank/size relationship in the cities of a country. Updated July 26, 2025.
-- [Marchetti's Constant](/2025-07-05-marchetti). The observation that a city is typically defined by a 30 minute commute radius around a central business district. Updated July 5, 2025.
 - [City Size and Crime](/2025-03-29-size-crime). How and why crime rates in a city generally increase with city size. Updated March 29, 2025.
 - [Urban Scaling](/2024-12-20-urban-scaling). How a city's wealth increases as the city grows. Updated December 20, 2024.
+
+**Theory of City Scaling**
+
+- [Standard Urban Model](/2025-12-27-sum). The basic Alonso-Muth-Mills model, or the standard urban model, works well in predicting how cities grow despite its limitations. Updated December 27, 2025.
+- [Polycentricity](/2025-11-22-polycentricity). An urban development methodology that distributes population and urban functions throughout a region, rather than concentrating them. Updated November 22, 2025.
+- [Zipf's Law](/2025-07-26-zipf). The regular rank/size relationship in the cities of a country. Updated July 26, 2025.
+- [Marchetti's Constant](/2025-07-05-marchetti). The observation that a city is typically defined by a 30 minute commute radius around a central business district. Updated July 5, 2025.
 - [Sources of Agglomeration](/2024-12-07-agglomeration-sources). The mechanisms by which larger cities drive increased prosperity. Updated December 7, 2024.
+
+**Urbanism**
+
+- [Transportation Technology](/2025-12-20-transpo-tech). How emerging transportation technologies might change the socioeconomic performance of cities. Updated December 20, 2025.
+- [Car-Free Cities](/2025-12-06-carfree). The environmental, health, and economic impact of superblocks and other urban design principles to reduce automobile usage. Updated December 6, 2025.
+- [The Rebound Effect](/2025-08-01-rebound). The tendency for total driving to increase after transportation efficiency improvements, such as new road lanes, remote work, public transportation, and compact neighborhoods. Updated August 1, 2025.
 
 **Economic Growth**
 
@@ -37,8 +43,8 @@ Following are the most recent versions of the articles in this review.
 
 **Origins of Cooperation**
 
-- [The Expansion of Cooperation in the Neolithic](/2026-05-01-neolithic). How large-scale cooperation expanded after the development of agriculture. Updated May 1, 2026.
-- [Cooperation in the Paleolithic](/2026-04-24-paleo). Large scale cooperation occurred before agriculture, but it seems to have been rare. Updated April 24, 2026.
+- [The Expansion of Cooperation in the Neolithic](/2026-05-08-neolithic). How large-scale cooperation expanded after the development of agriculture. Updated May 8, 2026.
+- [Cooperation in the Paleolithic](/2026-05-08-paleo). Large scale cooperation occurred before agriculture, but it seems to have been rare. Updated May 8, 2026.
 - [Cooperation in Nonhuman Animals](/2026-04-10-nonhuman). Large scale cooperation between unrelated groups of nonhuman animals is rare. Updated April 10, 2026.
 - [Dunbar's Number](/2025-08-16-dunbar). The claim that, due to the difficult to managing social relationships, human communties based on interpersonal knowledge are limited to around 150 people. Updated August 16, 2025.
 

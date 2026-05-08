@@ -15,5 +15,10 @@ This project is generously supported by a [Living Literature Review](https://coe
 
 ### About Me
 
-This Living Literature Review is prepared by Michael Goff. I received a Ph. D. in Mathematics from University of Washington and did a postdoc at Vanderbilt University. For most of the past decade, I have been working on energy and environmental policy at [Urban Cruise Ship](https://www.urbancruiseship.org/), with a stint at [The Breakthrough Institute](https://thebreakthrough.org/).
+Michael Goff is an independent researcher focused on scaling relationships in human societies, with particular interest in how cities grow, how large-scale cooperation emerges, and what these dynamics imply for long-term human welfare. He leads the Scaling in Human Societies project, a living literature review supported by Coefficient Giving, which synthesizes research on urban economics, population dynamics, and the mechanisms underlying economic growth.
 
+Michael also leads Urban Cruise Ship, a research consultancy producing analysis on energy, climate change, land use, urban design, and waste management. His work there has informed philanthropic strategy and policy advocacy, including an analysis of solid waste disposal costs for the Tennessee Environmental Council and a study of the drivers of electrification using data from the U.S. Energy Information Administration.
+
+Previously, Michael was an energy analyst at the Breakthrough Institute, where he published quantitative research on housing supply and urban policy and secured funding to launch a cities research program. He holds a PhD in mathematics from the University of Washington and conducted postdoctoral research at Vanderbilt University. Across his graduate and postdoctoral work, he published nine peer-reviewed papers in graph theory and combinatorics.
+
+His research draws on quantitative methods and uses tools including R, Python, and SQL, and it engages with questions at the intersection of economic growth, environmental sustainability, and long-run human welfare — areas central to the effective altruism research agenda.
