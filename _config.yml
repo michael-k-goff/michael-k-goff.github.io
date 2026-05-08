@@ -20,9 +20,9 @@ author: Michael Goff
 ###############################################
 
 navbar-links:
+  Start Here: "starthere"
   Overview: "overview"
   About This Project: "aboutme"
-  Start Here: "starthere"
 
 ################
 # --- Logo --- #

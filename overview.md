@@ -32,6 +32,13 @@ Following are the most recent versions of the articles in this review.
 - [Population and Economic Growth](/2025-06-07-population-growth). The role of population in driving long-term economic growth. Updated June 7, 2025.
 - [Energy and Economic Growth](/2025-05-24-energy-growth). The importance of energy consumption as a driver of economic growth. Updated May 24, 2025.
 
+**Origins of Cooperation**
+
+- [The Expansion of Cooperation in the Neolithic](/2026-05-08-neolithic). How large-scale cooperation expanded after the development of agriculture. Updated May 8, 2026.
+- [Cooperation in the Paleolithic](/2026-05-08-paleo). Large scale cooperation occurred before agriculture, but it seems to have been rare. Updated May 8, 2026.
+- [Cooperation in Nonhuman Animals](/2026-04-10-nonhuman). Large scale cooperation between unrelated groups of nonhuman animals is rare. Updated April 10, 2026.
+- [Dunbar's Number](/2025-08-16-dunbar). The claim that, due to the difficult to managing social relationships, human communties based on interpersonal knowledge are limited to around 150 people. Updated August 16, 2025.
+
 **Sustainability**
 
 - [Scale and Existential Risk](/2025-08-29-xrisk). Whether scale creates a risk of a catastrophe that would theaten civilization. Updated August 29, 2025.
@@ -40,12 +47,3 @@ Following are the most recent versions of the articles in this review.
 - [Resource Shortages](/2025-02-07-resource-shortage). Understanding how mineral resources are characterized and why the world is unlikely to run out of a major commodity in the foreseeable future. Updated February 7, 2025.
 - [IPAT and its Variants](/2025-01-31-ipat). A simple model of how an environmental impact varies with changes in population, affluence, and technology. Updated January 31, 2025.
 - [Limits to Growth](/2025-01-17-limits-to-growth). Resource and sustainability challenges that might curtail growth and scaling. Updated January 17, 2025.
-
-**Origins of Cooperation**
-
-- [The Expansion of Cooperation in the Neolithic](/2026-05-08-neolithic). How large-scale cooperation expanded after the development of agriculture. Updated May 8, 2026.
-- [Cooperation in the Paleolithic](/2026-05-08-paleo). Large scale cooperation occurred before agriculture, but it seems to have been rare. Updated May 8, 2026.
-- [Cooperation in Nonhuman Animals](/2026-04-10-nonhuman). Large scale cooperation between unrelated groups of nonhuman animals is rare. Updated April 10, 2026.
-- [Dunbar's Number](/2025-08-16-dunbar). The claim that, due to the difficult to managing social relationships, human communties based on interpersonal knowledge are limited to around 150 people. Updated August 16, 2025.
-
-
