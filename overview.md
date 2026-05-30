@@ -6,10 +6,10 @@ Following are the most recent versions of the articles in this review.
 
 **City Scaling**
 
+- [Urban Scaling](/2024-12-20-urban-scaling). How a city's wealth increases as the city grows. Updated May 30, 2026.
 - [Cities and Wellbeing](/2026-02-13-wellbeing). The mixed research on how mental health and wellbeing is affected by the urban form. Updated February 13, 2026.
 - [Pace of Life](/2026-01-30-lifestyle). Certain pace of life metrics, such as walking speed and cell phone call volume, tend to be higher in larger cities. Updated January 30, 2026.
 - [City Size and Crime](/2025-03-29-size-crime). How and why crime rates in a city generally increase with city size. Updated March 29, 2025.
-- [Urban Scaling](/2024-12-20-urban-scaling). How a city's wealth increases as the city grows. Updated December 20, 2024.
 
 **Theory of City Scaling**
 
