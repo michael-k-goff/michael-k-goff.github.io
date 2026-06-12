@@ -6,6 +6,7 @@ Following are the most recent versions of the articles in this review.
 
 **City Scaling**
 
+- [Interaction Across Cities](/2026-06-12-distance). The ambiguous evidence of whether remote interaction makes agglomeration economies less important. Updated June 12, 2026.
 - [Urban Scaling](/2026-05-30-urban-scaling). How a city's wealth increases as the city grows. Updated May 30, 2026.
 - [Cities and Wellbeing](/2026-02-13-wellbeing). The mixed research on how mental health and wellbeing is affected by the urban form. Updated February 13, 2026.
 - [Pace of Life](/2026-01-30-lifestyle). Certain pace of life metrics, such as walking speed and cell phone call volume, tend to be higher in larger cities. Updated January 30, 2026.

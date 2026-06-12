@@ -35,9 +35,9 @@ Now that we have considered some theory on how city output should vary with size
 
 [Bettencourt et al. (2007)](https://doi.org/10.1073/pnas.0610172104) is a foundational paper in the field of urban scaling with an approach inspired by physics. Drawing upon several national data sources and performing regressions of various socioeconomic quantities against city size, they find scaling relationships that are generally stronger than others we consider. For example, they find that gross domestic product varies with the 1.15, 1.26, and 1.13 powers of population using data from China (2002), the European Union (1999-2003), and Germany (2003) respectively. Note that the EU scaling relationship is well above that predicted by the theoretical model. Metrics related to research and development show particularly strong scaling relationships: for example, new patents and private research and development employment scale with the 1.27 power of population (United States, 2001) and the 1.34 power population (U.S., 2002) respectively. Some negative quantities also show superlinear scaling. For example, new AIDS cases and serious crimes increases with the 1.23 (U.S. 2002-2003) and 1.16 (U.S. 2003) powers of population. Infrastructural quantities, as predicted by the theory, show sublinear scaling. Both in Germany in 2002, the lengths of electrical cables and total road surface increase with the 0.87 and 0.83 powers of population.
 
-Additionally, [Bettencourt et al. (2007)](https://doi.org/10.1073/pnas.0610172104) model city growth dynamics. They posit the following growth equation.
+Additionally, [Bettencourt et al. (2007)](https://doi.org/10.1073/pnas.0610172104) model city growth dynamics. They posit the following growth equation:
 
-$$\frac{dN(t)}{dt} = \left(\frac{Y_0}{E}\right) N(t)^{\beta} - \left(\frac{R}{E}\right) N(t). \tag{2}$$
+$$\frac{dN(t)}{dt} = \left(\frac{Y_0}{E}\right) N(t)^{\beta} - \left(\frac{R}{E}\right) N(t).$$
 
 In most biological systems, β<1, meaning that as the system grows, the negative term outgrows the positive term and results in a limit to the system's growth. The same condition may apply to a city, or it may be that β>1, meaning that the system will grow in an unbounded manner until it reaches a physical limit.
 
