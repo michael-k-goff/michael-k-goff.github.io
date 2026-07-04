@@ -14,11 +14,11 @@ Following are the most recent versions of the articles in this review.
 
 **Theory of City Scaling**
 
+- [Sources of Agglomeration](/2026-07-04-agglomeration-sources). The mechanisms by which larger cities drive increased prosperity. Updated July 4, 2026.
 - [Standard Urban Model](/2025-12-27-sum). The basic Alonso-Muth-Mills model, or the standard urban model, works well in predicting how cities grow despite its limitations. Updated December 27, 2025.
 - [Polycentricity](/2025-11-22-polycentricity). An urban development methodology that distributes population and urban functions throughout a region, rather than concentrating them. Updated November 22, 2025.
 - [Zipf's Law](/2025-07-26-zipf). The regular rank/size relationship in the cities of a country. Updated July 26, 2025.
 - [Marchetti's Constant](/2025-07-05-marchetti). The observation that a city is typically defined by a 30 minute commute radius around a central business district. Updated July 5, 2025.
-- [Sources of Agglomeration](/2024-12-07-agglomeration-sources). The mechanisms by which larger cities drive increased prosperity. Updated December 7, 2024.
 
 **Urbanism**
 
