@@ -6,7 +6,7 @@ comments: true
 mathjax: true
 author: Michael Goff
 ---
-*This article is Version 2. Version 1 can be found [here](/2024-12-20-urban-scaling.md).*
+*This article is Version 2. Version 1 can be found [here](/2024-12-20-urban-scaling).*
 
 In [another post](/2024-12-07-agglomeration-sources.md), we consider the theoretical causes for agglomeration economies in cities, which are the tendency for some per-capita socioeconomic quantities, such as wages and output per capita, to increase with city size. In this post, we will consider empirical results on how socioeconomic quantities scale with city size. We shall see that, while there is strong evidence that some quantities scale superlinearly or sublinearly with city size, the results and methodologies have been challenged.
 
