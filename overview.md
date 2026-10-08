@@ -6,6 +6,7 @@ Following are the most recent versions of the articles in this review.
 
 **City Scaling**
 
+- [City Size and Congestion](/2026-10-08-congestion). How traffic congestion increases in large cities. Updated October 8, 2026.
 - [Cities and Infectious Disease](/2026-08-13-disease). The very limited ways in which large cities pose a greater disease risk. Updated August 13, 2026.
 - [Interaction Across Cities](/2026-06-12-distance). The ambiguous evidence of whether remote interaction makes agglomeration economies less important. Updated June 12, 2026.
 - [Urban Scaling](/2026-05-30-urban-scaling). How a city's wealth increases as the city grows. Updated May 30, 2026.
